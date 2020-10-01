@@ -1,6 +1,6 @@
 Virtual Happy Birthday Celebration
 
-A Happy Birthday animation design in CSS3, HTML5.
+A Happy Birthday animation design made with CSS3, HTML5.
 
 URL: http://ayusharma.github.io/birthday/
 
